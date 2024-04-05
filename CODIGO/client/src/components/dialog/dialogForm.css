@@ -1,0 +1,41 @@
+.dialog-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+  
+.dialog-box {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+}
+  
+.dialog-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+  
+.dialog-input {
+    margin-bottom: 20px;
+}
+
+.dialog-actions {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.dialog-actions button {
+    margin-left: 10px;
+}
+
+.dialog-actions button:first-child {
+    margin-left: 0;
+}
