@@ -27,7 +27,7 @@ Este é um aplicativo de backend desenvolvido em Node.js com o uso do framework 
 
 ## EXECUTANDO O PROJETO:
 1. **Configuração do Banco de Dados:**
-   - Antes de executar o site, é necessário importar o arquivo `DATABASE.sql` que está no diretório `CODIGO/server`. Se não estiver familiarizado com o processo de importação, [confira este curso](https://github.com/VILHALVA/CURSO-DE-MYSQL) para orientações detalhadas.
+   - Antes de executar o site, é necessário importar o arquivo `DATABASE.sql` que está no diretório `CODIGO/server`. 
 
 2. **Configuração do PHP:**
    - Abra o arquivo `index.js` em `CODIGO/server/index.js` e ajuste as configurações do banco de dados:
